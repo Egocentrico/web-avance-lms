@@ -7,3 +7,5 @@ const CourseMaterialSchema = new mongoose.Schema({
 });
 
 module.exports = mongoose.model('CourseMaterial', CourseMaterialSchema);
+
+//magia papa
